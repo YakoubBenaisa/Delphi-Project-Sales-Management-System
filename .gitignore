@@ -1,0 +1,9 @@
+*.identcache
+*.local
+*.res
+*.dcu
+*.exe
+__history/
+__recovery/
+Win32/
+fast-report/
